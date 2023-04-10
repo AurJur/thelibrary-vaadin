@@ -1,0 +1,6 @@
+Business Layer: The business layer handles all the business logic. It consists of service classes and uses services
+provided by data access layers. It also performs authorization and validation.
+
+Business Logic
+Validation
+Authorisation

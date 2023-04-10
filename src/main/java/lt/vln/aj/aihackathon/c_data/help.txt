@@ -1,0 +1,4 @@
+Persistence Layer: The persistence layer contains all the storage logic and translates business objects from and to
+database rows.
+
+Storage Logic
